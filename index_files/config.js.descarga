@@ -1,0 +1,2 @@
+(function(w){var lyticsId="6f5bc1e3c0fc9439065eb72c1c3eedd8",widgetConfig;w.pathfora.enableGA=true;widgetConfig=w.pathfora.utils.initWidgetScaffold();var pfaVariations=[];var acctConfig={};if(pfaVariations.length){w.pathfora.initializeABTesting(pfaVariations);}
+w.pathfora.initializeWidgets(widgetConfig,acctConfig);}(window));
